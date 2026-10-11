@@ -1,0 +1,4 @@
+page { background-color: #000000; color: #00ff66; }
+button { color: #00ff66; background-color: #000000; border: 1px solid #008f39; border-radius: 4px; box-sizing: border-box; }
+button:focus { border: 2px solid #00ff66; background-color: #001f0d; }
+input { color: #00ff66; background-color: #000000; }

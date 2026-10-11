@@ -1,0 +1,5 @@
+{
+  "pages": ["pages/splash/index", "pages/weather/index", "pages/settings/index"],
+  "window": { "navigationBarTitleText": "AIR WX" },
+  "permissions": ["GEOLOCATION"]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "aiui-airport-weather",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "AIR WX — raw METAR and TAF for Rokid AIUI",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "preview": "npx --yes --package @yodaos-pkg/aix-cli@0.8.2 aix preview . --dev",
+    "pack": "node scripts/package.mjs",
+    "validate": "bash scripts/validate.sh"
+  }
+}
